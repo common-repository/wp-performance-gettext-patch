@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Performance-Gettext-Patch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-22 18:00+0100\n"
+"PO-Revision-Date: 2011-12-22 18:03+0100\n"
+"Last-Translator: Julius Fischer <julius.f@gmx.net>\n"
+"Language-Team: Julius Fischer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: D:\\wp-performance-gettext-patch\n"
+
+#: D:\wp-performance-gettext-patch/interface.php:15
+msgid "Cache deleted"
+msgstr "Cache gelöscht"
+
+#: D:\wp-performance-gettext-patch/interface.php:22
+msgid "Installation successful"
+msgstr "Installation erfolgreich"
+
+#: D:\wp-performance-gettext-patch/interface.php:31
+msgid "Uninstall successful"
+msgstr "Deinstallation erfolgreich"
+
+#: D:\wp-performance-gettext-patch/interface.php:40
+msgid "Patch deactivated"
+msgstr "Patch deaktiviert"
+
+#: D:\wp-performance-gettext-patch/interface.php:42
+#: D:\wp-performance-gettext-patch/interface.php:51
+msgid "Patch is not installed"
+msgstr "Patch ist nicht installiert"
+
+#: D:\wp-performance-gettext-patch/interface.php:49
+msgid "Patch activated"
+msgstr "Patch aktiviert"
+
+#: D:\wp-performance-gettext-patch/interface.php:57
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:65
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:94
+msgid "Cache directory is not writable. Please grant your server write permissions to the directory:"
+msgstr "Cache-Verzeichnis besitzt nicht die nötigen Schreibrechte (755). Bitte erteilen Sie schreibrechte auf Ihren Server für das Verzeichnis:"
+
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:59
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:91
+msgid "Patch is already installed"
+msgstr "Patch ist bereits installiert"
+
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:62
+msgid "The native Gettext Lib is not available on your system"
+msgstr "Die native Gettext Lib ist auf Ihrem System nicht verfügbar"
+
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:68
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:97
+msgid "l10n file is not writable. Please grant your server write permissions to the file:"
+msgstr "l10n-Datei ist nicht beschreibbar. Bitte erteilen Sie auf Ihrem Server Schreibzugriff für die Datei:"
+
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:71
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:100
+msgid "Can not read"
+msgstr "Kann nicht gelesen werden"
+
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:76
+#: D:\wp-performance-gettext-patch/wp-performance-gettext-patch.php:103
+msgid "Can not write"
+msgstr "Kann nicht beschrieben werden"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:5
+msgid "All Settings"
+msgstr "Einstellungen"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:5
+msgid "WP Performance Gettext Patch"
+msgstr "WP Performance Gettext Patch"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:7
+msgid "Overview"
+msgstr "Übersicht"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:11
+msgid "Gettext Native-Lib"
+msgstr "Gettext Native-Lib"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:15
+msgid "Available"
+msgstr "Verfügbar"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:17
+msgid "Not available"
+msgstr "nicht verfügbar"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:22
+msgid "Perfomance Patch"
+msgstr "Perfomance Patch"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:26
+msgid "Active"
+msgstr "Aktiv"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:29
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:30
+msgid "(patch is not installed)"
+msgstr "(Patch ist nicht Installiert)"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:36
+msgid "Patch version"
+msgstr "Patch Version"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:41
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:45
+msgid "Patch"
+msgstr "Patch"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:49
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:51
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:56
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:57
+msgid "Delete cache"
+msgstr "Cache löschen"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:57
+msgid "(cache will be deleted automatically during updates/upgrades of the plugins, themes or WP)"
+msgstr "(Cache wird automatisch bei Updates / Upgrades von Plugins, Theme oder WP geloescht.)"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:61
+msgid "Install & Uninstall"
+msgstr "Installation & Deinstallation"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:65
+msgid "Install"
+msgstr "Installation"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:67
+msgid "Install the patch"
+msgstr "Installieren"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:70
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:82
+msgid "Note"
+msgstr "Beachte"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:71
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:83
+msgid "Following folders and files must have write permission"
+msgstr "Folgende Ordner & Dateien müssen Schreibrechte besitzen"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:72
+msgid "(755) permanent"
+msgstr "(755) Dauerhaft"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:73
+msgid "(655) only during the installation "
+msgstr "(655) Nur während der Installation"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:78
+msgid "Uninstall"
+msgstr "Deinstallation"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:80
+msgid "Uninstall the patch"
+msgstr "Deinstallieren"
+
+#: D:\wp-performance-gettext-patch/template/WP_P_GT_P_interface.php:84
+msgid "(655) only during the uninstall"
+msgstr "(655) Nur während der Deinstallation"
+
